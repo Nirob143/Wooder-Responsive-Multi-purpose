@@ -1,0 +1,220 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+.team {
+	margin-right: 44px;
+}
+.slider-content span::before {
+	left: 30%;
+}
+.slider-content span::after {
+	left: 30%;
+}
+.about-bottom a {
+	right: 60px;
+}
+.choose-content h1 {
+	font-size: 60px;
+}
+.choose-content p {
+	font-size: 18px;
+}
+.client-img p {
+	font-size: 22px;
+}
+.client-img::after {
+	left: 126px;
+}
+.client-img p::before {
+	left: -108px;
+}
+.client-img::before {
+	left: 126px;
+}
+
+}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .slider-content span::before {
+	left: 22%;
+	top: 33%;
+}
+.slider-content span::after {
+	right: 22%;
+	top: 33%;
+}
+.slider-content h1 {
+	font-size: 45px;
+}
+.about-bottom a {
+	right: -100px;
+	bottom: 61%;
+}
+.pt-40 {
+	padding-top: 176px;
+}
+.about-bottom img {
+	margin-top: -67%;
+}
+.pt-80 {
+	padding-top: 0;
+}
+.section-title h1 {
+	font-size: 60px;
+}
+.section-title a {
+	top: 13px;
+	font-size: 14px; 
+}
+.single-service h3 {
+	font-size: 18px;
+}
+.single-service p {
+	font-size: 14px;
+}
+.single-service a {
+	font-size: 17px;
+}
+.pb-80 {
+	padding-bottom: 0;
+}
+.choose-content h1 {
+	font-size: 37px;
+}
+.choose-content p {
+	padding-top: 24px;
+	font-size: 16px;
+}
+.choose-content {
+	margin-top: -144px;
+}
+.singal-icon h4 {
+	font-size: 16px;
+	font-weight: 600;
+}
+.singal-icon i {
+	font-size: 30px;
+}
+.team-hover {
+	padding: 0 15px;
+}
+.team-hover h4 {
+	font-size: 16px;
+}
+.testimonial-area .section-title h1 {
+	margin-top: -72px;
+}
+.client-img::before {
+	display: none;
+}
+.client-img p::before {
+	display: none;
+}
+.client-img p::after {
+	display: none;
+}
+.client-img::after {
+	display: none;
+}
+.client-img {
+	padding: 0;
+}
+.client-img p {
+	font-size: 22px;
+}
+.client-area{
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+.contact-area{
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+.contact-form h4 {
+	padding: 10px;
+	font-size: 17px;
+}
+.contact-form input {
+	font-size: 16px;
+}
+.contact-form textarea {
+	padding: 30px;
+	font-size: 16px;
+}
+.team {
+	margin-right: 54px;
+}
+.isotope-area{
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+.portfolio-overly h4 {
+	font-size: 24px;
+	margin-bottom: 6px;
+}
+.news-block h4 {
+	font-size: 16px;
+}
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+.section-title h1 {
+	font-size: 35px;
+}
+.slider-content h1 {
+	font-size: 25px;
+}
+.slider-content span::before {
+	display: none;
+}
+.slider-content span::after {
+	display: none;
+}
+.about-bottom a {
+	font-size: 13px;
+}
+.choose-content h1 {
+	font-size: 33px;
+}
+.choose-content p {
+	font-size: 12px;
+}
+.testimonial-area .section-title p{
+	color: #fff;
+}
+.testimonial-area .section-title h1 {
+	font-size: 31px;
+}
+.client-img::after {
+	display: none;
+}
+.client-img::before {
+	display: none;
+}
+.client-img p::before {
+	display: none;
+}
+.client-img {
+	padding: 0 0;
+}
+.client-img p {
+	font-size: 16px;
+}
+.single-client {
+	margin-bottom: 60px;
+}
+.contact-form h4 {
+	padding: 20px;
+}
+.contact-form input {
+	font-size: 16px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
